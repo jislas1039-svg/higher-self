@@ -1,0 +1,8 @@
+{
+  "name": "Copy of higher self",
+  "description": "This app is for the bold, and the courages. If you are truly ready for a change, and getting into you dream fitness goals.A holistic fitness and mindfulness sanctuary, combining personalized workout routines, nutritional guidance, and spiritual healing with a gamified progression system.This app is not just for a short term fix, but making sure have amazing health for a lifetime.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
